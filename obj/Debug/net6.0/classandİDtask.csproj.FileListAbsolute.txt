@@ -1,0 +1,14 @@
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.AssemblyInfoInputs.cache
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.AssemblyInfo.cs
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.csproj.CoreCompileInputs.cache
+C:\Users\2022\Desktop\classandİDtask\bin\Debug\net6.0\classandİDtask.exe
+C:\Users\2022\Desktop\classandİDtask\bin\Debug\net6.0\classandİDtask.deps.json
+C:\Users\2022\Desktop\classandİDtask\bin\Debug\net6.0\classandİDtask.runtimeconfig.json
+C:\Users\2022\Desktop\classandİDtask\bin\Debug\net6.0\classandİDtask.dll
+C:\Users\2022\Desktop\classandİDtask\bin\Debug\net6.0\classandİDtask.pdb
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.dll
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\refint\classandİDtask.dll
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.pdb
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\classandİDtask.genruntimeconfig.cache
+C:\Users\2022\Desktop\classandİDtask\obj\Debug\net6.0\ref\classandİDtask.dll
